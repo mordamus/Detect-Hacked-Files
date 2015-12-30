@@ -9,5 +9,3 @@ Detect Hacked Files is a small powershell script that scans a root folder for ch
 - [x] Allow/Disallow files changes based on folder/file name
 - [x] Sends a summery report with changes and their level
 
-#### Credit to `Black and his work, of which this is a continuation.
-
